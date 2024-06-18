@@ -1,5 +1,5 @@
 # demoHtml
-A Demo HTML Site from the Computing Fundamentals Course
-Test
+A HTML TEST made by Peter Schneider.
+
 # Author
 Peter Schneider
